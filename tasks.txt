@@ -1,0 +1,9 @@
+"""
+Perform the following tasks with python using Open-CV:
+
+1. Cropping the faces from two images and swapping them with each other. [CROPPING AND SWAPPING]
+
+2. Create a horizontal collage and a verticle collage with these photos. [CONCATENATE]
+
+3. Creating a image using open-cv.[CREATING IMAGE]
+"""
